@@ -1,0 +1,14 @@
+.item {
+  list-style-type: none;
+  font-size: 38px;
+  color: #434455;
+  padding: 16px;
+  background-color: #f4f4fd;
+  border-radius: 10px;
+}
+.list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+/* Heelooo */
